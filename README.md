@@ -2,7 +2,7 @@
 
 ## You have just found Keras.
 
-Keras is a minimalist, highly modular neural network library in the spirit of Torch, written in Python / Theano so as not to have to deal with the derth of ecosystem in Lua. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+Keras is a minimalist, highly modular neural network library in the spirit of Torch, written in Python / Theano so as not to have to deal with the dearth of ecosystem in Lua. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 
 Use Keras if you need a deep learning library that:
 - allows for easy and fast prototyping (through total modularity, minimalism, and extensibility).
@@ -11,7 +11,7 @@ Use Keras if you need a deep learning library that:
 
 ## Guiding principles
 
-- __Modularity.__ A model is understood as a sequence of standalone, fully-configurable modules that can be plugged together with as little restrictions as possible. In particular, neural layers, cost functions, optimizers, initialization schemes, activation functions and dropout are all standlone modules that you can combine to create new models. 
+- __Modularity.__ A model is understood as a sequence of standalone, fully-configurable modules that can be plugged together with as little restrictions as possible. In particular, neural layers, cost functions, optimizers, initialization schemes, activation functions and dropout are all standalone modules that you can combine to create new models. 
 
 - __Minimalism.__ Each module should be kept short and simple (<100 lines of code). Every piece of code should be transparent upon first reading. No black magic: it hurts iteration speed and ability to innovate. 
 
